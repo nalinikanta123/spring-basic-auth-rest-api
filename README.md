@@ -12,3 +12,8 @@ In this post, I will demonstrate how to restrict access to sensitive data using 
 
 
 ![image](https://user-images.githubusercontent.com/30445249/235369624-0fc252ae-03ac-4bf4-9e81-2cbbe2d961e3.png)
+
+
+Customized Authorization
+
+![image](https://user-images.githubusercontent.com/30445249/235369768-a77f4779-d751-42b4-9e3e-62b655e8c90d.png)
