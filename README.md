@@ -8,7 +8,7 @@ One approached to secure REST API is using HTTP basic authentication.
 
 In this post, I will demonstrate how to restrict access to sensitive data using HTTP basic authentication.
 
+![image](https://user-images.githubusercontent.com/30445249/235369697-d438bbde-a0d9-44cc-9767-c36af4bdba8b.png)
 
-f02a1670-d01f-4ceb-bb82-c9ed18ff580f
 
 ![image](https://user-images.githubusercontent.com/30445249/235369624-0fc252ae-03ac-4bf4-9e81-2cbbe2d961e3.png)
